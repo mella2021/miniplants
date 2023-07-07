@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Student Registration</string>
+    <string name="Help">Form</string>
+    <string name="About">Form</string>
+    <string name="Exit">Form</string>
+    <string name="open_drawer">Open Navigation Drawer</string>
+    <string name="close_drawer">Close Navigation Drawer</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="mango">Mango</string>
+    <string name="orange">Orange</string>
+    <string name="apple">Apple</string>
+    <string name="banana">Banana</string>
+    <string name="avocado">Avocado</string>
+    <string name="enter_username">Enter username:</string>
+    <string name="enter_password">Enter password:</string>
+
+</resources>

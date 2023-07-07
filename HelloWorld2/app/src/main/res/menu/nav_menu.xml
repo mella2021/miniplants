@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="nav_menu"
+    android:checkableBehavior="single" >
+
+        <group android:id="@+id/navigation_menu">
+            <item
+                android:id="@+id/nav_pineapple"
+                android:title="@string/pineapple"
+                android:icon="@drawable/home" />
+            <item
+                android:id="@+id/nav_mango"
+                android:title="@string/mango"
+                android:icon="@drawable/home" />
+            <item
+                android:id="@+id/nav_orange"
+                android:title="@string/orange"
+                android:icon="@drawable/home" />
+            <item
+                android:id="@+id/nav_apple"
+                android:title="@string/apple"
+                android:icon="@drawable/home" />
+            <item
+                android:id="@+id/nav_banana"
+                android:title="@string/banana"
+                android:icon="@drawable/home" />
+            <item
+                android:id="@+id/nav_avocado"
+                android:title="@string/avocado"
+                android:icon="@drawable/home" />
+        </group>
+
+    </menu>
